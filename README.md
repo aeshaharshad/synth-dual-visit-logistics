@@ -1,7 +1,5 @@
 # Synthetic Data Generation for Dual-Visit Service Logistics
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/synth-dual-visit-logistics/blob/main/synth_dual_visit_logistics.ipynb)
-
 A synthetic-data generator for a home-healthcare routing problem combining three hard features: **time-dependent travel** (rush-hour effects), **dual visits per patient** with temporal coupling, and **time windows** with inter-visit dependencies. Outputs a standardized benchmark suite for evaluating routing algorithms.
 
 ![Synthetic city with patients and rush-hour curve](images/city_demo.png)
